@@ -71,7 +71,15 @@ a {
     width: 200px;
 }
 
+/* ==========================================================================
+   02. MYTH & FACTS SECTION
+   ========================================================================== 
+*/
 
+.mythfacts-section {
+    background-image: url("asset/image/myth&facts.jpeg") no-repeat;
+    padding: 40px;
+}
 
 
 

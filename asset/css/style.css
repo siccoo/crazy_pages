@@ -1,0 +1,78 @@
+/* Template Name: Sample
+Author: Chilaka Michael Obinna
+Author URL: github.com/siccoo
+Version: 1.0.0
+Website: 
+*/
+
+/* ==========================================================================
+   01. GENERAL & BASIC STYLES
+   ========================================================================== 
+*/
+
+html {
+    position: relative;
+    min-height: 100%;
+    margin: 0 !important;
+}
+  
+body {
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* ==========================================================================
+   02. HEADER & NAVIGATION
+   ========================================================================== 
+*/
+
+.navbar-default {
+    background-color: #fff;
+    border-radius: none !important;
+    padding: 25px;
+}
+
+.navbar .navbar-nav .nav-menu {
+    color: #000;
+    margin-right: 10px;
+}
+
+.navbar .navbar-nav .nav-menu:hover, .navbar .navbar-nav .nav-menu:active, .navbar .navbar-nav .nav-menu:focus {
+    color: #000;
+}
+
+.navbar .navbar-nav .nav-about {
+    color: #000;
+    margin-right: 10px
+}
+
+.navbar .navbar-nav .nav-about:hover, .navbar .navbar-nav .nav-about:active, .navbar .navbar-nav .nav-about:focus {
+    color: #000;
+}
+
+.navbar-nav .pull-right {
+    margin-right: -450px;
+    /* float: right !important; */
+}
+
+#fbn-logo {
+    width: 200px;
+}
+
+
+
+
+
+

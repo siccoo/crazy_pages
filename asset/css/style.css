@@ -41,8 +41,8 @@ a {
 .navbar-default {
     background-color: #fff;
     border-radius: none !important;
-    /* border: none; */
-    padding: 25px;
+    border: none;
+    padding: 4px;
 }
 
 .navbar .navbar-nav .nav-menu {
@@ -94,18 +94,22 @@ a {
 	font-stretch: normal;
 	line-height: normal;
 	letter-spacing: normal;
-	text-align:center;
+	text-align: center;
 	color: #ffffff;
-	padding-top:100px;
-	padding-bottom:100px;
+	padding-top: 100px;
+	padding-bottom: 100px;
 }
 
 @media only screen and (max-width: 1024px) {
 	.mythfacts-section h1 {
-		padding-top:50px;
-		padding-bottom:50px;
-		font-size:25px;
+		padding-top: 50px;
+		padding-bottom: 50px;
+		font-size: 25px;
 	}
+}
+
+.mythfacts-1 {
+    
 }
 
 

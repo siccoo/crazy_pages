@@ -109,9 +109,17 @@ a {
 }
 
 .mythfacts-1 {
-    
+    padding: 100px;
 }
 
+.mythfacts-1 h1 {
+    color: #0f3965;
+    margin-bottom: 40px;
+    font-family: 'Calibri', 'Trebuchet MS', sans-serif;
+}
 
+.mythfacts-1 img {
+    
+}
 
 
